@@ -1,0 +1,24 @@
+
+
+@font-face {
+font-family: 'MontserratRegular';
+src: url('../fonts/Montserrat-Regular.eot');
+src: url('../fonts/Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+url('../fonts/Montserrat-Regular.woff') format('woff'),
+url('../fonts/Montserrat-Regular.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face{
+	font-family: "MontserratBold";
+	src: url("../fonts/Montserrat-Bold.otf");
+	font-style: normal;
+	font-weight: bold;
+}
+@font-face{
+	font-family: "Montserrat-Light";
+	src: url("../fonts/Montserrat-Light.otf");
+	font-style: normal;
+	font-weight: normal;
+}
